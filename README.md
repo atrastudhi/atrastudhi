@@ -6,5 +6,5 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer. Constantly lea
 
 I'm always open to collaborations and discussions. Let's connect and learn from each other:
 
-- [LinkedIn]([link](https://www.linkedin.com/in/atrastudhi/))
-- [Email](mailto:atras.r@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/atrastudhi/)
+- 📧 [Email](mailto:atras.r@gmail.com)
